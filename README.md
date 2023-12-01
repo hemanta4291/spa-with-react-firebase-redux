@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 This project is created based on an eCommerce shopping platform. Users can log in using their Google accounts and add items to the cart even without logging in. However, to proceed with the checkout, users need to log in. The login system is implemented using Firebase, and Redux Toolkit is used as the state container. That's all.
 
 
@@ -25,6 +25,11 @@ List the key features of your project. For example:
 - Firebase authentication and database
 - https://console.firebase.google.com/
 
+# Live in Netlify
+-https://shopping-app-fire.netlify.app/
+
+
+
 ## Installation
 
 Provide instructions on how to install and set up your project locally. Include any dependencies that need to be installed and how to do so.
@@ -39,4 +44,6 @@ cd your-repo
 # Install dependencies
 
 
-- 
+-
+
+
